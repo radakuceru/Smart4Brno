@@ -1,0 +1,10 @@
+{
+"id":"01",
+"free":"150",
+"total":"200",
+"name":"OCNisa",
+"address":"OC Nisa, Liberec",
+"gps":["150.999N", "180.8553E"],
+"opening_time":["15:00", "18:00"],
+"services":[ "LPG", "Elektro", "Mekos" ]
+}
